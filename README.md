@@ -83,18 +83,12 @@ A modern music player focused on smooth UI and user experience.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Viyan852&show_icons=true&theme=github_dark&hide_border=true">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Viyan852&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viyan852&layout=compact&theme=github_dark&hide_border=true">
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viyan852&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🌱 Currently Learning
 
