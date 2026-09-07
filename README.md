@@ -1,34 +1,34 @@
 <p align="center">
-  <img src="github.jpg" width="100%" alt="Banner">
+  <img src="github.jpg" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Viyan</h1>
+<h1 align="center">Hi 👋, I'm Viyan</h1>
 
 <h3 align="center">Frontend Developer • UI Enthusiast • Web Creator</h3>
 
 <p align="center">
-  Building clean, responsive and modern web experiences with creativity and code.
+  https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4A90E2&center=true&vCenter=true&width=650&lines=Frontend+Developer;Creating+Beautiful+Web+Experiences;Always+Learning+Something+New;Turning+Ideas+Into+Reality
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Technologies;Building+Amazing+Web+s
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?iyan852&label=Profile+Views&color=4A90E2&style=flat-square
+  https://komarev.com/ghpvc/?username=Viyan852&label=Profile+Views&color=4A90E2&style=for-the-badge
 </p>
 
 ---
 
-## ✨ About Me
+## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw- 🎨 Passionate about modern UI design
-- 🌱 Learning JavaScript & advanced frontend concepts
-- 🚀 Building real-world projects
-- ⚡ Creating smooth, interactive experiences
-- 🎯 Future goal: Full-Stack Developer
-
-<br clear="right"/>
+```yaml
+Name: Viyan
+Role: Frontend Developer
+Focus: Modern Web Development
+Learning:
+  - JavaScript
+  - Advanced CSS
+  - UI/UX Design
+Goal:
+  - Build beautiful web experiences
+```
 
 ---
 
@@ -36,101 +36,70 @@
 
 <p align="center">
 
-<img src="https://skillicons?i=html,css,js,python,git,github,vscode&theme=light
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logooColor=white
 
-</p>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-theo=css3&logoColor=white
 
-### Currently Exploring
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&black
 
-<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColormg src="https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=git&logoColor=white&color=F05032="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&b&logoColor=white
 
-https://skillicons.dev/icons?i=react,figma,nodejs&theme=light
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://itsviyan.netlify.app">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Viyan852&repo=contact-website&theme=default&hide_border=a href="https://havenmusic.netlify.app">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Viyan852&repo=haven-music-ide_border=true
-</a>
-
-</div>
-
-### 🌐 Contact Website
-
-> A modern contact website featuring a clean interface, responsive design, and smooth user experience.
-
-🔗 **Live Demo:** https://itsviyan.netlify.app
-
----
-
-### 🎵 Haven Music Player
-
-> A sleek music player focused on beautiful UI, intuitive controls, and modern design principles.
-
-🔗 **Live Demo:** https://havenmusic.netlify.app
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Viyan852&show_icons=true&er=true&rank_icon=github
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viyan852&layout=compact&theme=default
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heme=default&hide_border=true
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstogoColor=white
 
 </p>
 
 ---
 
-## 🌱 Learning Journey
-
-```text
-▰▰▰▰▰▰▰▰▱▱ JavaScript
-▰▰▰▰▰▰▰▱▱▱ Advanced CSS
-▰▰▰▰▰▰▱▱▱▱ UI/UX Design
-▰▰▰▰▰▱▱▱▱▱ React.js
-```
-
----
-
-## 🏆 GitHub Achievements
+## 🚀 Currently Learning
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Viyan852&theme=flat&no-frame=true&margin-w=10&
+
+<img src="https://img.shields.io/badge/JavaScript-Progressing-yellow?style=for-the-bjavascript
+
+<img src="https://img.shields.io/badge/Advanced_CSS-Learning-blue?style=for-the-badge&
+<img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=dge&logo=figma
+
+<img src="https://img.shields.io/badge/Frontend-Development-success?style=for-the->
 
 ---
 
-## 🎯 2026 Goals
+## 📊 GitHub Statistics
 
-- ✅ Master JavaScript
-- ✅ Build advanced frontend projects
-- ✅ Learn React.js
-- ✅ Improve UI/UX skills
-- ✅ Contribute to open source
-- ✅ Build a personal brand
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Viyan852&showlt&hide_border=true
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viyan852efault&hide_border=true
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Viyan852&theme=de_border=true
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Viyan852&theme=flat&no-frame=true&row=1&column=6
+
+## ⚡ Fun Facts
+
+- 🎨 I enjoy creating clean user interfaces
+- 💡 I love learning new technologies
+- 🚀 I build projects to improve my skills
+- 🌱 Every day is a chance to learn something new
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
 
 https://github.com/Viyan852
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=
+  <img src="https://img.shieldsGitHub-181717?style=for-the-badge&logo=github&logoColor=white
+</a>
 
 <a href="https://itsviyan.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome=white
+  <img src="https://img.shields.ortfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white
 </a>
 
 </p>
@@ -138,8 +107,9 @@ https://github.com/Viyan852
 ---
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ght=120&section=footer
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer"/align="center">
-✨ "Design is intelligence made visible." ✨
+<h3 align="center">
+✨ Great design is invisible. Great code makes it possible. ✨
 </h3>
-``
