@@ -2,7 +2,7 @@
   <img src="github.jpg" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 I'm Viyan</h1>
+<h1 align="center">Hi 👋 I'm Viyan from another account</h1>
 
 <p align="center">
   Frontend Developer • UI Enthusiast • Web Creator
